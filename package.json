@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@modules/splash": "file:./modules/splash/"
+    "@modules/splash": "file:./modules/splash/",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions/"
   }
 }
